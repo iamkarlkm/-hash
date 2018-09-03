@@ -7,5 +7,5 @@ github项目名称貌似不可改，惭愧！惭愧！看着好奇怪。。。
 
 
 # 期待您的支持
+<p><iframe src="http://www.q3lives.com/donate/payment/surport.html" height="200" width="200"/></p>
 
-<iframe href="http://www.q3lives.com/donate/payment/surport.html" style="height300px:width:300px"/>
